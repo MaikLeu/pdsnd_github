@@ -1,12 +1,12 @@
 ### Date created
-bikeshare_sol
+Bikeshare_sol
 
 
 ### Project Title
-Post your work on github Project
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+Bikeshare Database for Chicago, New York, Washington
 
 ### Files used
 bikeshare_sol

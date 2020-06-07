@@ -17,13 +17,10 @@ def get_city():
                      'Would you like to see data for Chicago, New York, or'
                      ' Washington?\n')
         if city.lower() == 'chi':
-            print('Ok, the windy City it is')
             return 'chicago.csv'
         elif city.lower() == 'nyc':
-            print('Ok, The Big Apple it is')
             return 'new_york_city.csv'
         elif city.lower() == 'was':
-            print('Ok, Home of the White House it is')
             return 'washington.csv'
         else:
             print('Sorry, I do not understand your input. Please input either '

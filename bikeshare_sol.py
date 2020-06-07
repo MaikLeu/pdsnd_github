@@ -12,17 +12,17 @@ import time
 def get_city():
 
     city = ''
-    while city.lower() not in ['chicago', 'new york', 'washington']:
+    while city.lower() not in ['chi', 'nyc', 'was']:
         city = input('\nHello! Let\'s explore some US bikeshare data!\n'
                      'Would you like to see data for Chicago, New York, or'
                      ' Washington?\n')
-        if city.lower() == 'chicago':
+        if city.lower() == 'chi':
             print('Ok, the windy City it is')
             return 'chicago.csv'
-        elif city.lower() == 'new york':
+        elif city.lower() == 'nyc':
             print('Ok, The Big Apple it is')
             return 'new_york_city.csv'
-        elif city.lower() == 'washington':
+        elif city.lower() == 'was':
             print('Ok, Home of the White House it is')
             return 'washington.csv'
         else:

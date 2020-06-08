@@ -9,7 +9,7 @@ Explore US Bikeshare Data - First python Project
 Bikeshare Database for Chicago, New York, Washington -the biggest three cities in the US
 
 ### Files used
-bikeshare_sol
+bikeshare_sol.py -python
 
 ### Credits
 Change Number One

@@ -8,7 +8,7 @@ import time
 #new_york_city = 'new_york_city.csv'
 #washington = 'washington.csv'
 
-# find out the city #
+# find out which of the 3 available will be chosen #
 def get_city():
 
     city = ''
